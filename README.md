@@ -18,3 +18,7 @@ A curated list of awesome developer focussed things related to Web3/Ethereum.
 ## 🗂 Data & indexing
 - [The Graph](https://thegraph.com/en/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 - [goldsky](https://goldsky.com/) - Index and transform on-chain data. Query with GraphQL, SQL, and more.
+
+## 🧪 Testing
+- [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
+- [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
