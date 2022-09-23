@@ -9,7 +9,7 @@
 
 A curated list of awesome developer focussed things related to Web3/Ethereum.
 
-## 🧰 General purpose Web3 libraries
+## 🔧 General purpose libraries
 ### JS libraries
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://github.com/web3/web3.js) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
