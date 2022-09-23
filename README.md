@@ -1,5 +1,7 @@
 # Web3 Developer Tools
 
+> A curated list of awesome things related to Vue.js
+
 ## General purpose Web3 libraries
 ### JS libraries
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
