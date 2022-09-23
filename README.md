@@ -24,6 +24,9 @@ A curated list of awesome developer focussed things related to Web3/Ethereum.
 ## 🔌 Contract tooling
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 
+## 🧰 IDEs
+- [Remix](https://remix-project.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
+
 ## 🧪 Testing
 - [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
 - [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
