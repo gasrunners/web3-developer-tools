@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/awesome-web3.png" alt="logo of vue-awesome repository" style="border-radius: 200px;">
+  <img width="400" src="./assets/logo.png" alt="logo of vue-awesome repository">
   <br>
   <br>
 </p>
