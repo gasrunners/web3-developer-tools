@@ -18,6 +18,10 @@ A curated list of awesome developer focussed things related to Web3/Ethereum.
 - [The Graph](https://thegraph.com/en/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 - [goldsky](https://goldsky.com/) - Index and transform on-chain data. Query with GraphQL, SQL, and more.
 
+## ↔️ RPC providers
+- [Infura](https://infura.io/) - The world's most powerful suite of high availability blockchain APIs and developer tools.
+- [Alchemy](https://www.alchemy.com/) - The most powerful set of web3 development tools to build and scale your dApp with ease.
+
 ## 📜 Contracts
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
 
