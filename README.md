@@ -28,6 +28,7 @@ A curated list of developer focussed things related to Web3/Ethereum.
 ## 🔌 Contract tooling
 - [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
+- [Defender](https://www.openzeppelin.com/defender) - Automate smart contract operations to deliver high-quality products with lower risk.
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 
 ## 🧰 IDEs
