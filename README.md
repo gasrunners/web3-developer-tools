@@ -14,10 +14,15 @@ A curated list of awesome developer focussed things related to Web3/Ethereum.
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://github.com/web3/web3.js) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
-
 ## 🗂 Data & indexing
 - [The Graph](https://thegraph.com/en/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 - [goldsky](https://goldsky.com/) - Index and transform on-chain data. Query with GraphQL, SQL, and more.
+
+## 📜 Contracts
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+
+## 🔌 Contract tooling
+- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 
 ## 🧪 Testing
 - [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
