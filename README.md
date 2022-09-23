@@ -1,6 +1,6 @@
 # Web3 Developer Tools
 
-A curated list of awesome things related to Web3/Ethereum.
+A curated list of awesome developer focussed things related to Web3/Ethereum.
 
 ## General purpose Web3 libraries
 ### JS libraries
