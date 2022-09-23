@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="400" src="./assets/awesome-web3.png" alt="logo of vue-awesome repository" style="border-radius: 200px;">
+  <br>
+  <br>
+</p>
+
 # Web3 Developer Tools
 
 A curated list of awesome developer focussed things related to Web3/Ethereum.
