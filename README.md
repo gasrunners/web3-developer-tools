@@ -18,10 +18,11 @@ A curated list of developer focussed things related to Web3/Ethereum.
 - [The Graph](https://thegraph.com/en/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 - [goldsky](https://goldsky.com/) - Index and transform on-chain data. Query with GraphQL, SQL, and more.
 
-## ↔️ RPC providers
+## ↔️ Data providers
 - [Infura](https://infura.io/) - The world's most powerful suite of high availability blockchain APIs and developer tools.
 - [Alchemy](https://www.alchemy.com/) - The most powerful set of web3 development tools to build and scale your dApp with ease.
 - [QuickNode](https://www.quicknode.com/) - Ethereum RPC endpoints and other Ethereum related APIs.
+- [Blocknative](https://www.blocknative.com/) - Blocknative's proven platform is the easy way to work with mempool data.
 
 ## 📜 Contracts
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
@@ -31,6 +32,8 @@ A curated list of developer focussed things related to Web3/Ethereum.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 - [Defender](https://www.openzeppelin.com/defender) - Automate smart contract operations to deliver high-quality products with lower risk.
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
+- [Brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 
 ## 🧰 IDEs
 - [Remix](https://remix-project.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
