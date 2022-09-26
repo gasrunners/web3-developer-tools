@@ -34,7 +34,7 @@ A curated list of developer focussed things related to Web3/Ethereum.
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 - [Brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
-- [tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
+- [Tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
 
 ## 🧰 IDEs
 - [Remix](https://remix-project.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
