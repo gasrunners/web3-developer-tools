@@ -21,6 +21,7 @@ A curated list of developer focussed things related to Web3/Ethereum.
 ## ↔️ RPC providers
 - [Infura](https://infura.io/) - The world's most powerful suite of high availability blockchain APIs and developer tools.
 - [Alchemy](https://www.alchemy.com/) - The most powerful set of web3 development tools to build and scale your dApp with ease.
+- [QuickNode](https://www.quicknode.com/) - Ethereum RPC endpoints and other Ethereum related APIs.
 
 ## 📜 Contracts
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
