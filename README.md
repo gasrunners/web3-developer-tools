@@ -45,3 +45,4 @@ A curated list of developer focussed things related to Web3/Ethereum.
 ## 🧪 Testing
 - [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
 - [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
+- [Eth Unit Convertor](https://eth-converter.com/) - Simple Ether unit converter.
