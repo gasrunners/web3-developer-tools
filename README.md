@@ -34,6 +34,10 @@ A curated list of developer focussed things related to Web3/Ethereum.
 ## 🧰 IDEs
 - [Remix](https://remix-project.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
 
+## 🎨 Frontend
+- [wagmi](https://wagmi.sh/) - wagmi is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [RainbowKit](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp.
+
 ## 🧪 Testing
 - [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
 - [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
