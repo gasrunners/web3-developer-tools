@@ -52,3 +52,4 @@ A curated list of developer focussed things related to Web3/Ethereum.
 - [Impersonator](https://www.impersonator.xyz/) - Test apps using someone else's address.
 - [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
 - [Eth Unit Converter](https://eth-converter.com/) - Simple Ether unit converter.
+- [Ethereum Utils](https://eth-utils.com/unit) - Variety of common Ethereum utility conversions.
