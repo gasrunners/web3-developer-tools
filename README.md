@@ -6,7 +6,6 @@
 </p>
 
 # Web3 Developer Tools
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of developer focussed tools for Web3 / Ethereum development.
 
