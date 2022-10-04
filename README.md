@@ -9,6 +9,21 @@
 
 A curated list of developer focussed tools for Web3 / Ethereum development.
 
+## 📜 Smart Contracts
+### Libraries
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+- [solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+- [solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
+
+### Tooling
+- [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
+- [Defender](https://www.openzeppelin.com/defender) - Automate smart contract operations to deliver high-quality products with lower risk.
+- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
+- [Brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
+- [Tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
+
 ## 🔧 General purpose libraries
 ### JavaScript
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
@@ -24,21 +39,6 @@ A curated list of developer focussed tools for Web3 / Ethereum development.
 - [Alchemy](https://www.alchemy.com/) - The most powerful set of web3 development tools to build and scale your dApp with ease.
 - [QuickNode](https://www.quicknode.com/) - Ethereum RPC endpoints and other Ethereum related APIs.
 - [Blocknative](https://www.blocknative.com/) - Blocknative's proven platform is the easy way to work with mempool data.
-
-## 📜 Smart Contracts
-### Libraries
-- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
-- [solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-- [solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
-
-### Tooling
-- [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
-- [Defender](https://www.openzeppelin.com/defender) - Automate smart contract operations to deliver high-quality products with lower risk.
-- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
-- [Brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
-- [Tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
 
 ## 🧰 IDEs
 - [Remix](https://remix-project.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
