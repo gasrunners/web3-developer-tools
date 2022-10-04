@@ -10,7 +10,7 @@
 A curated list of developer focussed things related to Web3/Ethereum.
 
 ## 🔧 General purpose libraries
-### JS libraries
+### JavaScript
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://github.com/web3/web3.js) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
@@ -25,12 +25,13 @@ A curated list of developer focussed things related to Web3/Ethereum.
 - [QuickNode](https://www.quicknode.com/) - Ethereum RPC endpoints and other Ethereum related APIs.
 - [Blocknative](https://www.blocknative.com/) - Blocknative's proven platform is the easy way to work with mempool data.
 
-## 📜 Contracts
+## 📜 Smart Contracts
+### Libraries
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
 - [solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 
-## 🔌 Contract tooling
+### Tooling
 - [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 - [Defender](https://www.openzeppelin.com/defender) - Automate smart contract operations to deliver high-quality products with lower risk.
