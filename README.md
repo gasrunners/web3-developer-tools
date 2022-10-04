@@ -7,7 +7,7 @@
 
 # Web3 Developer Tools
 
-A curated list of developer focussed things related to Web3/Ethereum.
+A curated list of developer focussed tools for to Web3 / Ethereum development.
 
 ## 🔧 General purpose libraries
 ### JavaScript
