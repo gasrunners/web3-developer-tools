@@ -54,3 +54,6 @@ A curated list of developer focussed tools for Web3 / Ethereum development.
 - [Revoke.cash](https://revoke.cash/) - Manage your token allowances.
 - [Eth Unit Converter](https://eth-converter.com/) - Simple Ether unit converter.
 - [Ethereum Utils](https://eth-utils.com/unit) - Variety of common Ethereum utility conversions.
+
+## 🤑 Faucets
+- [Paradigm MultiFaucet](https://faucet.paradigm.xyz/) - Bootstrap your testnet wallet
