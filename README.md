@@ -24,10 +24,11 @@ A curated list of developer focussed tools for Web3 / Ethereum development.
 - [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 - [Tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
 
-## 🔧 General purpose libraries
+## 📦 Packages
 ### JavaScript
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://github.com/web3/web3.js) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+- [Common ABI](https://www.npmjs.com/package/@0xgafu/common-abi) - A set of common smart contract ABIs in JSON format.
 
 ## 🗂 Data & indexing
 - [The Graph](https://thegraph.com/en/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
