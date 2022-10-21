@@ -24,6 +24,9 @@ A curated list of developer focussed tools for Web3 / Ethereum development.
 - [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) - Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 - [Tenderly](https://tenderly.co/) - Comprehensive Ethereum Developer Platform for real-time monitoring, alerting, debugging, and simulating Smart Contracts.
 
+### Discovery
+- [Cookbook](https://www.cookbook.dev/) - Find, Deploy, and Contribute to smart contracts.
+
 ## 📦 Packages
 ### JavaScript
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Aims to be a complete library for interacting with the Ethereum Blockchain and its ecosystem.
