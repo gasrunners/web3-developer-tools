@@ -51,6 +51,7 @@ A curated list of developer focussed tools for Web3 / Ethereum development.
 - [wagmi](https://wagmi.sh/) - wagmi is a collection of React Hooks containing everything you need to start working with Ethereum.
 - [RainbowKit](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp.
 - [WalletConnect](https://walletconnect.com/products) - WalletConnect WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
+- [ConnectKit](https://docs.family.co/connectkit) - ConnectKit is a powerful React component library for connecting a wallet to your dApp.
 
 ## 🧪 Testing
 - [Synpress](https://github.com/Synthetixio/synpress) - Synpress is e2e testing framework based on Cypress.io and playwright with support for metamask.
